@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AquaStore.API", "AquaStore.API\AquaStore.API.csproj", "{9E88181B-EA98-40DE-B9B9-12A218EDF325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquaStore.Db", "AquaStore.Db\AquaStore.Db.csproj", "{5B712616-ECB3-49EB-A32E-6EECA08BA43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E88181B-EA98-40DE-B9B9-12A218EDF325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E88181B-EA98-40DE-B9B9-12A218EDF325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E88181B-EA98-40DE-B9B9-12A218EDF325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E88181B-EA98-40DE-B9B9-12A218EDF325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B712616-ECB3-49EB-A32E-6EECA08BA43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B712616-ECB3-49EB-A32E-6EECA08BA43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B712616-ECB3-49EB-A32E-6EECA08BA43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B712616-ECB3-49EB-A32E-6EECA08BA43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7129244-029B-4033-A67F-A5EDFF9C80AD}
+	EndGlobalSection
+EndGlobal
