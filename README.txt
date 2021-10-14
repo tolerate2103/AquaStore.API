@@ -9,7 +9,7 @@
 SEEDING DATABASE
 
 Open Database_Repo file
-Extract database from the zip folder named Database to Database_Repo Destination path
+Extract database from the zip folder named Database to AquaStore Destination path
 
 
 EXTRA ( If not installed )

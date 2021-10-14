@@ -60,7 +60,6 @@ namespace AquaStore.API.ViewModel
 
                         cmd.ExecuteNonQuery();
                     }
-
                 }
                 catch (Exception ex)
                 {
